@@ -49,9 +49,10 @@ npm run bundle:dmg
 
 ## 版本产物
 
-当前仓库已同步 `v1.0.1` 对应发行包：
+当前仓库已同步以下发行包：
 
 - `releases/1.0.1/MarkItDown Converter_1.0.1_aarch64.dmg`
+- `releases/1.1.0/MarkItDown Converter_1.1.0_aarch64.dmg`
 
 ## 目录说明
 
